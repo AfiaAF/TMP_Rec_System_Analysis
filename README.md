@@ -160,6 +160,7 @@ A contamination level of 6% balanced sensitivity and specificity effectively.
 | Documentation          | README, code notebooks, modeling explanations, evaluation reports                  |
 | Presentation           | Summary of business problems, methodology, insights, and model performance         |
 
+#### Link to presentation file: https://drive.google.com/drive/folders/1tmOJ5zya-fnPpYbgnBsWnnvQKO9aeD6r?usp=sharing
 ---
 
 ## TL;DR
