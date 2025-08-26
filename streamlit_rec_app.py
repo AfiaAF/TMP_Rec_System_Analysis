@@ -69,3 +69,4 @@ if st.button("Predict Next Event"):
     }).sort_values(by='Probability', ascending=False)
     
     st.table(proba_df.reset_index(drop=True))
+
